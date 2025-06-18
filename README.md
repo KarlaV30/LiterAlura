@@ -93,6 +93,16 @@ Antes de guardar un libro, el sistema valida si ya existe uno con el mismo títu
 
 ![Validación de libro duplicado](img/duplicado.png)
 
+# Base de Datos 
+
+### Table Libros
+
+![Table Libros](img/libros.png)
+
+### Table Autor
+
+![Table Autor](img/autor.png)
+
 Si el libro ya está en la base, se evita el guardado y se muestra un mensaje claro en consola.
 
 # 🛠️ Ejecución del Proyecto
