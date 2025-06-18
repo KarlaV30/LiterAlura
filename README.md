@@ -108,7 +108,7 @@ Ejecutá con Maven o desde tu IDE
 5-> ¡Listo! 🎉
 
 # 👨‍💻 Autor
-Sergio Herrera Desarrollador Backend en formación, apasionado por la estructura, los flujos limpios de código y una interfaz clara. Este proyecto fue desarrollado como parte de su evolución práctica en Spring Boot y arquitectura de apps interactivas.
+Karla Q. Desarrollador Backend en formación, apasionada por la estructura, los flujos limpios de código y una interfaz clara. Este proyecto fue desarrollado como parte de su evolución práctica en Spring Boot y arquitectura de apps interactivas.
 
 
 
